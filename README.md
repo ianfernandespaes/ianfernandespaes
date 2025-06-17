@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfernandespas&show_icons=true&theme=dracula&rank_icon=default&hide_border=true" alt="Ian's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianfernandespaes&show_icons=true&theme=dracula&rank_icon=default&hide_border=true" alt="Ian's GitHub Stats" />
   </a>
       <!-- Creates a little space -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfernandespas&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Ian's Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfernandespaes&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Ian's Top Languages" />
   </a>
 </p>
 
